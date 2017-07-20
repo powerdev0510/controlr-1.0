@@ -1,2 +1,2 @@
-# controlr-1.0
-# controlr-1.0
+# Angular Ionic carousel chart
+Perfect design and follow
